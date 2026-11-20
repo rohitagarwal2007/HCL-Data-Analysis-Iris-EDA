@@ -28,4 +28,3 @@ This project performs Exploratory Data Analysis (EDA) on the classic **Iris Flow
 1. **Balanced Dataset:** The dataset contains 150 total rows, equally distributed across three species (`Iris-setosa`, `Iris-versicolor`, and `Iris-virginica`) with 50 samples each.
 2. **Species Comparison:** `Iris-virginica` has the highest average `petal_length` (5.55 cm) and `petal_width` (2.03 cm), whereas `Iris-setosa` has the smallest petal measurements.
 3. **Data Quality:** There are no missing (null) values in any column, though the dataset contains 3 duplicate rows.
-4.
